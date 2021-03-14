@@ -3,7 +3,7 @@ SMTPserver-PHPMailer from gmail.com
 
 See https://github.com/PHPMailer/PHPMailer/
 
-Instalasi
+# Instalasi
 $ git clone https://github.com/rompihitam404/PHPMailer-SMTPserver.git
 
 $ cd PHPMailer-SMTPserver
